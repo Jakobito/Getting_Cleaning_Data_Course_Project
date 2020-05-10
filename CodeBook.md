@@ -11,71 +11,71 @@ Data has been processed as follows:
 	- Clean data set ("./data/clean_data.txt") contains means of each variable for each activity and each subject.
 
 ### Description of variables
-Subject                    : integer       
-Activity                   : character
-tBodyAcc-mean()-X          : numerical
-tGravityAcc-std()-X        : numerical
-tBodyAcc-mean()-Y          : numerical
-tBodyAcc-mean()-Z          : numerical
-tBodyAcc-std()-X           : numerical
-tBodyAcc-std()-Y           : numerical
-tBodyAcc-std()-Z           : numerical
-tGravityAcc-mean()-X       : numerical
-tGravityAcc-mean()-Y       : numerical
-tGravityAcc-mean()-Z       : numerical
-tGravityAcc-std()-Y        : numerical
-tGravityAcc-std()-Z        : numerical
-tBodyAccJerk-mean()-X      : numerical
-tBodyAccJerk-mean()-Y      : numerical
-tBodyAccJerk-mean()-Z      : numerical
-tBodyAccJerk-std()-X       : numerical
-tBodyAccJerk-std()-Y       : numerical
-tBodyAccJerk-std()-Z       : numerical
-tBodyGyro-mean()-X         : numerical
-tBodyGyro-mean()-Y         : numerical
-tBodyGyro-mean()-Z         : numerical
-tBodyGyro-std()-X          : numerical
-tBodyGyro-std()-Y          : numerical
-tBodyGyro-std()-Z          : numerical
-tBodyGyroJerk-mean()-X     : numerical
-tBodyGyroJerk-mean()-Y     : numerical
-tBodyGyroJerk-mean()-Z     : numerical
-tBodyGyroJerk-std()-X      : numerical
-tBodyGyroJerk-std()-Y      : numerical
-tBodyGyroJerk-std()-Z      : numerical
-tBodyAccMag-mean()         : numerical
-tBodyAccMag-std()          : numerical
-tGravityAccMag-mean()      : numerical
-tGravityAccMag-std()       : numerical
-tBodyAccJerkMag-mean()     : numerical
-tBodyAccJerkMag-std()      : numerical
-tBodyGyroMag-mean()        : numerical
-tBodyGyroMag-std()         : numerical
-tBodyGyroJerkMag-mean()    : numerical
-tBodyGyroJerkMag-std()     : numerical
-fBodyAcc-mean()-X          : numerical
-fBodyAcc-mean()-Y          : numerical
-fBodyAcc-mean()-Z          : numerical
-fBodyAcc-std()-X           : numerical
-fBodyAcc-std()-Y           : numerical
-fBodyAcc-std()-Z           : numerical
-fBodyAccJerk-mean()-X      : numerical
-fBodyAccJerk-mean()-Y      : numerical
-fBodyAccJerk-mean()-Z      : numerical
-fBodyAccJerk-std()-X       : numerical
-fBodyAccJerk-std()-Y       : numerical
-fBodyAccJerk-std()-Z       : numerical
-fBodyGyro-mean()-X         : numerical
-fBodyGyro-mean()-Y         : numerical
-fBodyGyro-mean()-Z         : numerical
-fBodyGyro-std()-X          : numerical
-fBodyGyro-std()-Y          : numerical
-fBodyGyro-std()-Z          : numerical
-fBodyAccMag-mean()         : numerical
-fBodyAccMag-std()          : numerical
-fBodyBodyAccJerkMag-mean() : numerical
-fBodyBodyAccJerkMag-std()  : numerical
-fBodyBodyGyroMag-mean()    : numerical
-fBodyBodyGyroMag-std()     : numerical
-fBodyBodyGyroJerkMag-mean(): numerical
-fBodyBodyGyroJerkMag-std() : numerical
+* Subject                    : integer       
+* Activity                   : character
+* tBodyAcc-mean()-X          : numerical
+* tGravityAcc-std()-X        : numerical
+* tBodyAcc-mean()-Y          : numerical
+* tBodyAcc-mean()-Z          : numerical
+* tBodyAcc-std()-X           : numerical
+* tBodyAcc-std()-Y           : numerical
+* tBodyAcc-std()-Z           : numerical
+* tGravityAcc-mean()-X       : numerical
+* tGravityAcc-mean()-Y       : numerical
+* tGravityAcc-mean()-Z       : numerical
+* tGravityAcc-std()-Y        : numerical
+* tGravityAcc-std()-Z        : numerical
+* tBodyAccJerk-mean()-X      : numerical
+* tBodyAccJerk-mean()-Y      : numerical
+* tBodyAccJerk-mean()-Z      : numerical
+* tBodyAccJerk-std()-X       : numerical
+* tBodyAccJerk-std()-Y       : numerical
+* tBodyAccJerk-std()-Z       : numerical
+* tBodyGyro-mean()-X         : numerical
+* tBodyGyro-mean()-Y         : numerical
+* tBodyGyro-mean()-Z         : numerical
+* tBodyGyro-std()-X          : numerical
+* tBodyGyro-std()-Y          : numerical
+* tBodyGyro-std()-Z          : numerical
+* tBodyGyroJerk-mean()-X     : numerical
+* tBodyGyroJerk-mean()-Y     : numerical
+* tBodyGyroJerk-mean()-Z     : numerical
+* tBodyGyroJerk-std()-X      : numerical
+* tBodyGyroJerk-std()-Y      : numerical
+* tBodyGyroJerk-std()-Z      : numerical
+* tBodyAccMag-mean()         : numerical
+* tBodyAccMag-std()          : numerical
+* tGravityAccMag-mean()      : numerical
+* tGravityAccMag-std()       : numerical
+* tBodyAccJerkMag-mean()     : numerical
+* tBodyAccJerkMag-std()      : numerical
+* tBodyGyroMag-mean()        : numerical
+* tBodyGyroMag-std()         : numerical
+* tBodyGyroJerkMag-mean()    : numerical
+* tBodyGyroJerkMag-std()     : numerical
+* fBodyAcc-mean()-X          : numerical
+* fBodyAcc-mean()-Y          : numerical
+* fBodyAcc-mean()-Z          : numerical
+* fBodyAcc-std()-X           : numerical
+* fBodyAcc-std()-Y           : numerical
+* fBodyAcc-std()-Z           : numerical
+* fBodyAccJerk-mean()-X      : numerical
+* fBodyAccJerk-mean()-Y      : numerical
+* fBodyAccJerk-mean()-Z      : numerical
+* fBodyAccJerk-std()-X       : numerical
+* fBodyAccJerk-std()-Y       : numerical
+* fBodyAccJerk-std()-Z       : numerical
+* fBodyGyro-mean()-X         : numerical
+* fBodyGyro-mean()-Y         : numerical
+* fBodyGyro-mean()-Z         : numerical
+* fBodyGyro-std()-X          : numerical
+* fBodyGyro-std()-Y          : numerical
+* fBodyGyro-std()-Z          : numerical
+* fBodyAccMag-mean()         : numerical
+* fBodyAccMag-std()          : numerical
+* fBodyBodyAccJerkMag-mean() : numerical
+* fBodyBodyAccJerkMag-std()  : numerical
+* fBodyBodyGyroMag-mean()    : numerical
+* fBodyBodyGyroMag-std()     : numerical
+* fBodyBodyGyroJerkMag-mean(): numerical
+* fBodyBodyGyroJerkMag-std() : numerical
