@@ -42,5 +42,5 @@ data_merge$Activity <- factor(data_merge$Activity, levels = activity_labels[, 1]
 library(plyr)
 ## Create data set calculating the mean values except first and second columns
 CleanData <- ddply(data_merge, .(Subject, Activity), .fun=function(x) { colMeans(x[ ,-c(1:2)]) })
-## Write resulting dataset in a .csv file
-write.csv(CleanData, "./data/clean_data.csv", row.names = FALSE)
+## Write resulting dataset in a .txt file
+write.table(CleanData, "./data/clean_data.txt", row.names = FALSE)

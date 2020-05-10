@@ -8,7 +8,7 @@ Data has been processed as follows:
 	- Rename of the column names according to "features.txt" data set.
 	- Data subsetting to include measurements of the mean and standard deviation for each measurement. 
 	- Activity names are also included instead of Activity IDs as indicated in "activity_labels.txt" data set.
-	- Clean data set ("./data/clean_data.csv") contains means of each variable for each activity and each subject.
+	- Clean data set ("./data/clean_data.txt") contains means of each variable for each activity and each subject.
 
 ### Description of variables
 Subject                    : integer       

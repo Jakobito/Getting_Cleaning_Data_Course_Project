@@ -13,5 +13,5 @@ File "run_analysis.R" is a R script that does the following:
 5. Activity ids are also renamed with IDs and names of activities from "activity_labels.txt" by using "factor". 
 6. Filter column names containing "mean" or "std" by using "grepl". 
 7. Independent tidy data set with the average of each variable for each activity and each subject is created by using "ddply" from "plyr" library and "colMeans" to calculate the means for all columns excluding Subject and Activity colums.
-8. Clean and tidy dataset is written as CSV file by using "write.csv" in "./data/clean_data.csv".
+8. Clean and tidy dataset is written as txt file by using "write.table" in "./data/clean_data.txt".
 
